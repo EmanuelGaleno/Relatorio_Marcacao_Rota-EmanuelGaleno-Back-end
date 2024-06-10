@@ -18,7 +18,7 @@ A aplicação **Relatório de Marcações de Colaboradores** é uma API RESTful 
 Para clonar o projeto, abra um terminal e execute o seguinte comando:
 
 ```bash
-git clone https://github.com/EmanuelGaleno/Teste-Back-end-Java_Relatorio
+git clone https://github.com/EmanuelGaleno/Relatorio_Marcacao_Rota-EmanuelGaleno-Teste_Back-end.git
 ```
 
 ## 🎉 Após clonar o repositório, entre no diretório do projeto:
@@ -26,7 +26,7 @@ git clone https://github.com/EmanuelGaleno/Teste-Back-end-Java_Relatorio
 
 Copiar código:
 ```
-cd EmanuelGaleno/Teste-Back-end-Java_Relatorio
+cd EmanuelGaleno/EmanuelGaleno/Relatorio_Marcacao_Rota-EmanuelGaleno-Teste_Back-end
 ```
 
 ## Configuração Inicial 🔧
