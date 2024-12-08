@@ -52,14 +52,14 @@ CREATE TABLE MARCACAO_VINCULO_INICIO_FIM (
 );
 
 -- Insert colaboradores.
-INSERT INTO public.colaborador (cpf, nome) VALUES ('00187832013', 'João da Silva');
-INSERT INTO public.colaborador (cpf, nome) VALUES ('12345678987', 'José');
+INSERT INTO public.colaborador (cpf, name) VALUES ('00187832013', 'João da Silva');
+INSERT INTO public.colaborador (cpf, name) VALUES ('12345678987', 'José');
 
 -- Insert tipos de marcações.
-INSERT INTO public.marcacao_tipo (codigo, nome, tempo_recomendado_minutos) VALUES (28, 'Refeição', 30);
-INSERT INTO public.marcacao_tipo (codigo, nome, tempo_recomendado_minutos) VALUES (30, 'Espera', 60);
-INSERT INTO public.marcacao_tipo (codigo, nome, tempo_recomendado_minutos) VALUES (56, 'Descanso', 60);
-INSERT INTO public.marcacao_tipo (codigo, nome, tempo_recomendado_minutos) VALUES (29, 'Jornada', 720);
+INSERT INTO public.marcacao_tipo (codigo, name, tempo_recomendado_minutos) VALUES (28, 'Refeição', 30);
+INSERT INTO public.marcacao_tipo (codigo, name, tempo_recomendado_minutos) VALUES (30, 'Espera', 60);
+INSERT INTO public.marcacao_tipo (codigo, name, tempo_recomendado_minutos) VALUES (56, 'Descanso', 60);
+INSERT INTO public.marcacao_tipo (codigo, name, tempo_recomendado_minutos) VALUES (29, 'Jornada', 720);
 
 
 -- Marcações dos colaboradores.
