@@ -1,14 +1,14 @@
-package com.example.Entrevista;
+package com.example.tracking;
 
 import org.springframework.boot.SpringApplication;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EntrevistaApplication {
+public class StartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EntrevistaApplication.class, args);
+		SpringApplication.run(StartApplication.class, args);
 	}
 
 }

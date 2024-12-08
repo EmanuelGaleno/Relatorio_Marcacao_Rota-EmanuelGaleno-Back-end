@@ -32,7 +32,7 @@ cd EmanuelGaleno/EmanuelGaleno/Relatorio_Marcacao_Rota-EmanuelGaleno-Teste_Back-
 ## Configuração Inicial 🔧
 
 
-***Edite o arquivo application.properties conforme necessário, configurando as credenciais do banco de dados como: nome do banco, username, password, host e porta.***
+***Edite o arquivo application.properties conforme necessário, configurando as credenciais do banco de dados como: name do banco, username, password, host e porta.***
 
 ## Instalação e Configuração do PostgreSQL com Docker 🐳 🚀
 

@@ -1,12 +1,15 @@
-package com.example.Entrevista.Entity;
+package com.example.tracking.Entity;
 
 import jakarta.persistence.*;
+import org.antlr.v4.runtime.misc.NotNull;
+
 import java.time.ZonedDateTime;
 
 @Entity
 @Table(name = "MARCACAO")
 public class Marcacao {
     @Id
+	@NotNull
     private Long codigo;
     
     @ManyToOne

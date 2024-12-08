@@ -1,12 +1,10 @@
-package com.example.Entrevista.Service;
+package com.example.tracking.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.Entrevista.Entity.Marcacao;
-import com.example.Entrevista.Repository.MarcacaoRepository;
+import com.example.tracking.Entity.Marcacao;
+import com.example.tracking.Repository.MarcacaoRepository;
 
-import java.time.ZonedDateTime;
-import java.util.Date;
 import java.util.List;
 
 @Service

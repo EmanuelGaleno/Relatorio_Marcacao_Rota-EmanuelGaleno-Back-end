@@ -1,4 +1,4 @@
-package com.example.Entrevista.Entity;
+package com.example.tracking.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
